@@ -1,0 +1,67 @@
+body {
+    background-image: url(./images/banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#Header{
+    color: white;
+    width: 100%;
+    margin: 0px;
+}
+
+#Header div{
+    display: inline-block;
+}
+
+#Logo{
+    width: 30%;
+}
+#Logo h1{
+    font-size: 9px;
+    padding: 2px 0px 0px 4px;  
+}
+
+#Logo h1 span{
+    font-weight: 100;
+}
+
+#Options {
+    width: 69%;
+}
+
+#Options ul {
+    display: inline-block;
+    margin-left: 276px;
+}
+
+#Options ul li {
+    display: inline-block;
+    font-size: 9px;
+    margin: 5px;
+}
+
+#border1{
+    border: 1px solid white;
+    border-radius: 15%;
+    padding: 2px;
+}
+
+#BodyCenter{
+    color: white;
+    text-align: center;
+}
+
+#BodyCenter h2{
+    font-size: 25px;
+}
+
+#BodyCenter p{
+    font-size: 12px;
+}
+
+#BodyCenter ul li {
+    display: inline-block;
+    border: 1px solid white;
+}
